@@ -1,0 +1,1 @@
+ID: <?php echo e($id); ?> is deleted<?php /**PATH C:\xampp\htdocs\laravelProjects\project_two\resources\views/users/delete.blade.php ENDPATH**/ ?>

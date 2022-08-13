@@ -1,0 +1,133 @@
+/*
+colors:
+#1e2f97 
+#1aa7ec
+#7dd6f6
+*/
+
+
+
+p{
+
+    
+    margin: 0;
+}
+.container{
+   margin: auto;
+    width: 25%;
+    min-height: 243px;
+  
+    border: 3px solid #7dd6f600;
+   background-color: rgba(132, 132, 132, 0.199);
+    border-radius: 25px;
+    padding: 10px;
+    box-shadow: 20px 20px 25px rgba(0, 0, 0, 0.205) ;
+    color:black;
+  
+}
+.title{
+    display: inline-flex;
+    float: left;
+    margin: 5px 5px 5px 25px;
+
+  
+    width:75px;
+    
+  
+ 
+}
+
+input{
+    border-radius: 25px;
+    border:1px solid rgba(0, 0, 0, 0.397)     ;
+    background-color: white;
+    height: 25px;
+    padding: 5px;
+    width: 200px;
+    text-align: center;
+}
+input:hover{
+    border-radius: 25px;
+    border:1px solid rgba(0, 0, 0, 0.397)   ;
+    background-color: white;
+ 
+    height: 25px;
+    padding: 5px;
+    width: 200px;
+}
+.btncontainer{
+    text-align: center;
+    
+}
+button{
+    height: 25px;
+    border-radius: 25px;
+    width:80px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.936);
+    border: none;
+}
+button:hover{
+    height: 25px;
+    border-radius: 25px;
+    width:80px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.936);
+    border: none;
+    box-shadow: 10px 10px 20px rgba(17, 17, 17, 0.61);
+}
+select{
+    border-radius: 25px;
+    border: none;
+    background-color: white;
+    color: black;
+}
+
+.btnset{
+    margin-left: 10px;
+    height: 25px;
+    border-radius: 25px;
+    width:80px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.936);
+    border: none;
+}
+.btnset:hover{
+    height: 25px;
+    border-radius: 25px;
+    width:80px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.936);
+    border: none;
+    box-shadow: 10px 10px 20px rgba(17, 17, 17, 0.61);
+}
+.containertwo{
+  
+    width: 20%;
+    margin: auto;
+    
+    text-align: center;
+    border-radius: 100px;
+}
+.contain{
+    margin-top: 50px;
+}
+.imgbtn
+{
+    height: 25px;
+    border-radius: 25px;
+    width:150px;
+    color: white;
+    background-color: #6f5974;
+    border: none;
+    margin-top: 25px;
+}
+.imgbtn:hover{
+    height: 25px;
+    border-radius: 25px;
+    width:150px;
+    color: white;
+    background-color: #caacbb;
+    border: none;
+    box-shadow: 10px 10px 20px rgba(17, 17, 17, 0.61);
+}
